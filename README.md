@@ -1,5 +1,10 @@
 # 💫 About Me:
-🔭 I am currently studying to strengthen and expand my knowledge<br>🌱 everything has a positive side<br>📫 How to reach me bermudezlopezpedrojose@gmail.com
+🔭 I am currently studying to strengthen and expand my knowledge in software development<br>
+🌱 Passionate about learning new technologies and everything has a positive side<br>
+💻 I enjoy working with web development, mobile applications, and backend systems<br>
+🎯 Always looking for opportunities to grow and contribute to meaningful projects<br>
+🚀 Believer in continuous learning and improvement<br>
+📫 How to reach me: bermudezlopezpedrojose@gmail.com
 
 
 # 💻 Tech Stack:
