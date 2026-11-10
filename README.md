@@ -7,7 +7,7 @@
 📍 Armenia, Quindío, Colombia · 🟢 Disponible de inmediato · Full-Time o remoto
 
 [![Portafolio](https://img.shields.io/badge/Portafolio-peterjhosep31.dev-14304a?style=for-the-badge&logo=googlechrome&logoColor=white)](https://peterjhosep31.dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectemos-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-jos%C3%A9-berm%C3%BAdez-l%C3%B3pez-597b3b24a)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectemos-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/peterjhosep31)
 [![Correo](https://img.shields.io/badge/Correo-Escríbeme-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bermudezlopezpedrojose@gmail.com)
 
 </div>
